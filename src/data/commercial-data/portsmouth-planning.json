@@ -1,0 +1,247 @@
+{
+  "updatedAt": "2026-05-17",
+  "authority": "portsmouth-city-council",
+  "count": 24,
+  "applications": [
+    {
+      "ref": "26/00496/FUL",
+      "address": "38 Manners Road, Southsea PO4 0BB",
+      "postcode": "PO4 0BB",
+      "proposal": "Change of use from licensed C4 HMO to 8-bed sui generis HMO with internal reconfiguration, common in the Southsea HMO-conversion belt serving University of Portsmouth",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "12/03/2026",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00486/FUL",
+      "address": "135 Kirby Road, Portsmouth PO2 0PX",
+      "postcode": "PO2 0PX",
+      "proposal": "Change of use from C3 dwelling to 7-bed sui generis HMO in the North End HMO conversion corridor",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "08/03/2026",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00475/FUL",
+      "address": "116-118 Commercial Road, Portsmouth PO1 1EP",
+      "postcode": "PO1 1EP",
+      "proposal": "Class E retail unit entrance door replacement and shopfront refresh on the Commercial Road central retail spine",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "05/03/2026",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00469/FUL",
+      "address": "116-118 Commercial Road, Portsmouth PO1 1EP",
+      "postcode": "PO1 1EP",
+      "proposal": "Listed building consent for shopfront alterations companion to 26/00475/FUL on the heritage-listed Commercial Road frontage",
+      "type": "LBC",
+      "status": "Pending",
+      "received": "05/03/2026",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00342/FUL",
+      "address": "Southsea, Portsmouth PO5 2RJ",
+      "postcode": "PO5 2RJ",
+      "proposal": "Sub-division of Class E building into two commercial units retaining office accommodation alongside addition of second-floor residential",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "20/02/2026",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00299/FUL",
+      "address": "The Clocktower, Clocktower Drive, Southsea PO5 3PA",
+      "postcode": "PO5 3PA",
+      "proposal": "The Clocktower Southsea leisure and mixed-use sui generis scheme, seafront leisure and visitor accommodation development",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "10/02/2026",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00251/FUL",
+      "address": "Portsea, Portsmouth PO1 3SE",
+      "postcode": "PO1 3SE",
+      "proposal": "Class E ground floor retained, conversion of C4 upper floors to 7-bed sui generis HMO with mansard extension in Portsea",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "02/02/2026",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00198/FUL",
+      "address": "Gunwharf Quays, Gunwharf Road, Portsmouth PO1 3TZ",
+      "postcode": "PO1 3TZ",
+      "proposal": "Gunwharf Quays anchor unit reconfiguration, Land Securities-led F&B refresh and outlet retail tenant mix update in the flagship leisure scheme",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "22/01/2026",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00145/FUL",
+      "address": "Tipner West Regeneration, Tipner Lane, Portsmouth PO2 8QR",
+      "postcode": "PO2 8QR",
+      "proposal": "Tipner Regeneration Phase 2 mixed-use delivery, residential alongside ground-floor commercial and light industrial on the M275 gateway",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "12/01/2026",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00098/FUL",
+      "address": "Lakeside North Harbour, Western Road, Portsmouth PO6 3EN",
+      "postcode": "PO6 3EN",
+      "proposal": "Lakeside North Harbour office park reconfiguration, refurbishment of IBM-legacy Grade B office floors for multi-tenant occupation",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "04/01/2026",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/02545/FUL",
+      "address": "Albert Road, Southsea PO5 1QY",
+      "postcode": "PO5 1QY",
+      "proposal": "Albert Road independent F&B parade refurbishment, frontage works and change of use of upper floors to managed flexible workspace",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "18/12/2025",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/02412/COU",
+      "address": "Osborne Road, Southsea PO5 3LR",
+      "postcode": "PO5 3LR",
+      "proposal": "Change of use of Osborne Road heritage hotel building, retention of independent hotel use with new ground-floor F&B and conference accommodation",
+      "type": "COU",
+      "status": "Approved",
+      "received": "02/12/2025",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/02278/FUL",
+      "address": "Cascades Shopping Centre, Commercial Road, Portsmouth PO1 4SQ",
+      "postcode": "PO1 4SQ",
+      "proposal": "Cascades Centre reconfiguration, anchor unit subdivision and new F&B accommodation in the central Portsmouth retail scheme",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "18/11/2025",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/02145/COU",
+      "address": "London Road, North End, Portsmouth PO2 0LN",
+      "postcode": "PO2 0LN",
+      "proposal": "North End parade conversion of large terraced dwelling to sui generis 9-bed HMO in the PO2 student and young-professional HMO belt",
+      "type": "COU",
+      "status": "Approved",
+      "received": "04/11/2025",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/02012/FUL",
+      "address": "Cosham High Street, Portsmouth PO6 3AB",
+      "postcode": "PO6 3AB",
+      "proposal": "Cosham High Street retail parade refurbishment, frontage works and new F&B accommodation in the Cosham district centre",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "21/10/2025",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/01875/FUL",
+      "address": "Queen Alexandra Hospital, Southwick Hill Road, Cosham PO6 3LY",
+      "postcode": "PO6 3LY",
+      "proposal": "Queen Alexandra Hospital ancillary healthcare scheme, new dental practice and private clinic accommodation in the Cosham healthcare cluster",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "07/10/2025",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/01745/FUL",
+      "address": "Drayton Lane, Drayton, Portsmouth PO6 1HJ",
+      "postcode": "PO6 1HJ",
+      "proposal": "Drayton care home cluster scheme, new 64-bed care home accommodation alongside ancillary healthcare in the A2030 corridor",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "23/09/2025",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/01612/FUL",
+      "address": "Voyager Park, Portfield Road, Portsmouth PO3 5FN",
+      "postcode": "PO3 5FN",
+      "proposal": "Voyager Park industrial expansion, new Class B2 light industrial and Class B8 storage accommodation supporting Solent corridor distribution",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "09/09/2025",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/01478/FUL",
+      "address": "Walton Road Industrial Estate, Portsmouth PO6 1SS",
+      "postcode": "PO6 1SS",
+      "proposal": "Walton Road industrial estate refurbishment, new Class B2 workshop and trade-counter units serving Portsmouth defence supply chain",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "26/08/2025",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/01345/FUL",
+      "address": "Eastney Road, Eastney, Portsmouth PO4 9PJ",
+      "postcode": "PO4 9PJ",
+      "proposal": "Eastney mixed-use scheme, new ground-floor neighbourhood retail and F&B with managed residential above on the rising PO4 mixed-use frontage",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "12/08/2025",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/01212/FUL",
+      "address": "Guildhall Square, Portsmouth PO1 2AB",
+      "postcode": "PO1 2AB",
+      "proposal": "Guildhall Square Grade B office building refurbishment, mid-rise office accommodation serving central Portsmouth professional firm cluster",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "29/07/2025",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/01078/FUL",
+      "address": "Hayling Island, Eastoke Road, Hayling Island PO11 9JQ",
+      "postcode": "PO11 9JQ",
+      "proposal": "Hayling Island seafront hotel and holiday-let scheme, new 48-bed Class C1 hotel and ancillary leisure accommodation",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "15/07/2025",
+      "portal": "https://planning.havant.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/00945/FUL",
+      "address": "Hilsea Retail Park, London Road, Hilsea PO2 9SD",
+      "postcode": "PO2 9SD",
+      "proposal": "Hilsea Retail Park expansion, new Class E retail and F&B units alongside drive-through accommodation on the A3 gateway",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "01/07/2025",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/00812/FUL",
+      "address": "Spice Island, Bath Square, Old Portsmouth PO1 2JL",
+      "postcode": "PO1 2JL",
+      "proposal": "Old Portsmouth heritage hospitality scheme, refurbishment of listed waterfront pub and boutique hotel accommodation on Spice Island",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "18/06/2025",
+      "portal": "https://publicaccess.portsmouth.gov.uk/online-applications/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+# Commercial Mortgages Portsmouth
+> Specialist commercial mortgage broker for Portsmouth, the Solent and South Hampshire. Defence and naval supply chain, leisure and hospitality, HMO portfolio, retail, semi-commercial and trading-business commercial mortgages from a 90+ lender panel including Shawbrook, InterBay Commercial, LendInvest, Cynergy Bank, Lloyds, NatWest, Barclays and Santander. Indicative terms in 48 hours, completion typically 4 to 8 weeks.
+
+## Content Hierarchy
+- /: Homepage with Portsmouth market snapshot, live planning pipeline, calculator, lender panel, area grid, case studies, testimonials, FAQ
+- /services/: Commercial mortgage product hub
+- /property-types/: Coverage by sector
+- /areas/: Portsmouth sub-areas with commercial planning and market data
+- /calculator/: Commercial mortgage repayment and LTV calculator
+- /blog/: Market commentary and rate insights
+- /case-studies/: Anonymised real deals
+- /about/: Broker bio and credentials
+- /how-it-works/: 5-step process
+- /contact/: Enquiry form
+- /faq/: Frequently asked questions
+
+## Key Facts
+- Service: Commercial mortgages
+- Coverage: Portsmouth (the only UK island city), Cosham, Drayton, Hayling Island fringe, the Solent corridor and South Hampshire
+- Facility size: £150K to £10M
+- Term: 5 to 25 years
+- LTV: typically 65 to 75% (semi-commercial up to 75%, leisure/hospitality and trading-business 60 to 70%, HMO investment 65 to 75%)
+- Rates (mid-2026): 6.0 to 9.0% pa
+- Lender panel: 90+ lenders
+- Decision time: indicative terms in 48 hours
+- Named lenders: Shawbrook, InterBay Commercial, LendInvest, Cynergy Bank, Lloyds, NatWest, Barclays, Santander, plus 80+ others (Hampshire Trust Bank locally headquartered)
+
+## Data
+Each area page contains live local market data:
+- Land Registry sold-data signal (residential transaction volume as market temperature)
+- Live commercial planning pipeline from Portsmouth City Council
+- Named regeneration zones and business districts (Tipner Regeneration, Gunwharf Quays, Commercial Road, Lakeside North Harbour, The Clocktower, Voyager Park)
+- Named demand anchors (Royal Navy and BAE Systems defence cluster, Queen Alexandra Hospital, University of Portsmouth)
+- Lender appetite by sector
+
+## Contact
+- Phone: 07595 366094
+- Email: enquiries@commercialmortgagesportsmouth.co.uk
+- Site: https://commercialmortgagesportsmouth.co.uk
+- Network parent: https://commercialmortgagesbroker.co.uk
