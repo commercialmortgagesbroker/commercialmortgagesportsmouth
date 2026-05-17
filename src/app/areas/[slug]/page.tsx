@@ -306,7 +306,7 @@ export default async function AreaDetailPage({ params }: Props) {
           <div className="mx-auto max-w-5xl">
             <span className="accent-line mb-4" />
             <h2 className="font-heading text-2xl font-bold text-primary md:text-3xl">
-              Other Leeds Areas We Cover
+              Other Portsmouth Areas We Cover
             </h2>
             <div className="mt-8 grid gap-4 md:grid-cols-3">
               {otherAreas.map((a) => (
